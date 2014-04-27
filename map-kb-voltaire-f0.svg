@@ -326,8 +326,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.3535534"
-     inkscape:cx="1204.9615"
-     inkscape:cy="790.80591"
+     inkscape:cx="903.81729"
+     inkscape:cy="524.72431"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -398,12 +398,12 @@
        id="path3103"
        transform="translate(-490.85715,-13.352103)"
        style="fill:none;stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       d="m 726.80476,1316.9593 0,124.7539 m 27.19713,-159.709 -26.76904,0 0,35.7431 -29.54696,0 m -59.09393,0 -29.54696,0 0,-23.2335 -25.75889,0 m -51.51778,0 -25.75889,0"
+       d="m 725.21377,1316.9593 0,124.7539 m 28.78812,-159.709 -28.80197,0 0,35.7431 -27.51403,0 m -59.09393,0 -29.54696,0 0,-23.2335 -25.75889,0 m -51.51778,0 -25.75889,0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       d="m 788.57143,988.57143 0,-85.71429 m 48.57143,1.42857 21.42857,-285.71428 m -72.85714,0 0,-105.71429 -64.28572,0 0,-132.85714 L 740,380 m 37.14286,0 18.57143,0 0,68.57143 100,0 0,-64.28572 21.42857,12.14286 M 960,420.71428 l 21.42857,12.14286 0,85.71429 -197.14286,0"
+       d="m 788.57143,988.57143 0,-85.71429 m 48.57143,1.42857 21.42857,-285.71428 m -63.85714,0 0,-105.71429 -73.28572,0 0,-132.85714 L 740,380 m 37.14286,0 18.57143,0 0,68.57143 100,0 0,-64.28572 21.42857,12.14286 M 960,420.71428 l 21.42857,12.14286 0,85.71429 -186.14286,0"
        id="path3105"
        inkscape:connector-curvature="0"
        transform="translate(-490.85715,-13.352103)"
@@ -1064,7 +1064,7 @@
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
     <path
        style="fill:none;stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 725.54207,424.96083 19.76111,0 m 39.52221,0 19.76111,0"
+       d="m 737.04207,424.96083 8.26111,0 m 39.52221,0 19.76111,0"
        id="path5298"
        inkscape:connector-curvature="0"
        transform="translate(-433.50001,178.61069)"
@@ -2101,5 +2101,42 @@
            x="-261.31445"
            sodipodi:role="line">Voltaire</tspan></text>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1001.5469"
+       y="1031.4373"
+       id="text3342"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3344"
+         x="1001.5469"
+         y="1031.4373">Stockage</tspan><tspan
+         sodipodi:role="line"
+         x="1001.5469"
+         y="1046.4373"
+         id="tspan3346">papeterie</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="238.95854"
+       y="1038.9373"
+       id="text3348"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3350"
+         x="238.95854"
+         y="1038.9373">Stockage</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="237.57124"
+       y="426.54367"
+       id="text3348-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3350-5"
+         x="237.57124"
+         y="426.54367">Stockage</tspan></text>
   </g>
 </svg>

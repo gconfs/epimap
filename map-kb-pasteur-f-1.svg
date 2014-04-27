@@ -42,9 +42,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748737"
-     inkscape:cx="1163.5397"
-     inkscape:cy="855.19229"
+     inkscape:zoom="0.49497474"
+     inkscape:cx="1688.1996"
+     inkscape:cy="678.70985"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -52,7 +52,7 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="681"
+     inkscape:window-width="1364"
      inkscape:window-height="754"
      inkscape:window-x="0"
      inkscape:window-y="12"
@@ -245,15 +245,14 @@
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="1455"
-       y="1107.67"
+       x="973.47589"
+       y="932.40948"
        id="text3896"
-       sodipodi:linespacing="125%"
-       transform="translate(-460.31088,-205.06008)"><tspan
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3898"
-         x="1455"
-         y="1107.67">CAST</tspan></text>
+         x="973.47589"
+         y="932.40948">CAST</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -385,5 +384,31 @@
          style="fill:#ffffff;fill-rule:nonzero;stroke:none"
          inkscape:connector-curvature="0" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="714.72168"
+       y="1164.1409"
+       id="text3052"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3054"
+         x="714.72168"
+         y="1164.1409">Local</tspan><tspan
+         sodipodi:role="line"
+         x="714.72168"
+         y="1194.1409"
+         id="tspan3056">entretien</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="994.30878"
+       y="869.17627"
+       id="text3058"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3060"
+         x="994.30878"
+         y="869.17627">One4One</tspan></text>
   </g>
 </svg>
