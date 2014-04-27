@@ -261,8 +261,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="1623.357"
-     inkscape:cy="638.13948"
+     inkscape:cx="1989.8682"
+     inkscape:cy="719.1912"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -714,18 +714,19 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="-488.9205"
+       style="font-size:28px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-491.95096"
        y="227.37711"
        id="text3237"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3239"
-         x="-488.9205"
-         y="227.37711">Fabrice Bardèche</tspan><tspan
+         x="-491.95096"
+         y="227.37711"
+         style="font-size:28px;font-weight:bold;-inkscape-font-specification:Sans Bold">Fabrice Bardèche</tspan><tspan
          sodipodi:role="line"
-         x="-488.9205"
-         y="257.37711"
+         x="-491.95096"
+         y="262.37711"
          id="tspan3241">Vice-président IONIS</tspan></text>
     <text
        xml:space="preserve"
@@ -747,5 +748,20 @@
        transform="translate(-1108.1069,-409.29809)"
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 823.03572,1377.8746 66.25,0 m 1199.96228,-48.4873 0,-37.8807 m -1178.89086,11.368 0,55.8928 m 313.91736,-139.7087 -75.7615,0 m 275.2666,-97.9848 0,75.2563 m -539.94552,270.2413 -54.28568,0 m -290,-373.5715 -62.1429,0 m 323.615,211.9216 0,44.9518 m -0.5793,-210.8019 0,-36.25 m 191.24563,-155.99896 -38.89087,0 m -224.50636,48.48732 -41.6688,0 m 1370.0704,436.97584 0,-55.7142 m 171.4286,55 0,-59.6429 m -61.0714,79.6429 -53.2143,0 m 85,-319.6429 0,-35.7143 m -2.8572,232.5 0,-33.9286 m -11.0714,-233.5714 -71.4286,0 M 769.4533,696.80978 l 0,-91.67134 m 173.24114,-91.41881 0,-67.42768 m -313.14604,-15.07764 -62.1429,0 m 202.1429,-202.1429 0,-58.2142 m 486.4285,81.4285 -71.7857,0 m 93.5715,-89.6428 0,62.1428 m 458.2142,0.7143 0,-57.5 m 91.0715,95.7143 -68.5715,0 m 513.5715,-26.7857 0,-55.7143" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-250.16718"
+       y="1181.7909"
+       id="text3188"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3190"
+         x="-250.16718"
+         y="1181.7909">Baie</tspan><tspan
+         sodipodi:role="line"
+         x="-250.16718"
+         y="1221.7909"
+         id="tspan3192">Cisco</tspan></text>
   </g>
 </svg>

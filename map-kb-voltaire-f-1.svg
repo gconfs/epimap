@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748737"
-     inkscape:cx="1002.6276"
-     inkscape:cy="734.97501"
+     inkscape:zoom="0.35"
+     inkscape:cx="1213.7285"
+     inkscape:cy="655.01029"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -84,7 +84,7 @@
          id="tspan3919"
          x="1126.6351"
          y="1457.4639"
-         style="font-size:32px;text-align:center;text-anchor:middle">Local</tspan><tspan
+         style="font-size:32px;text-align:center;text-anchor:middle">Stockage</tspan><tspan
          sodipodi:role="line"
          x="1126.6351"
          y="1497.4639"
@@ -169,7 +169,7 @@
          y="1011.5007">Lab SRS</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:31.99999952px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="121.99107"
        y="595.2193"
        id="text3953"
@@ -178,12 +178,12 @@
          id="tspan3955"
          x="121.99107"
          y="595.2193"
-         style="text-align:center;text-anchor:middle;font-size:31.99999952px">Local</tspan><tspan
+         style="font-size:32px;text-align:center;text-anchor:middle">Stockage</tspan><tspan
          sodipodi:role="line"
          x="121.99107"
-         y="625.2193"
+         y="635.2193"
          id="tspan3957"
-         style="text-align:center;text-anchor:middle;font-size:31.99999952px">Bocal</tspan></text>
+         style="font-size:32px;text-align:center;text-anchor:middle">Bocal</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:31.99999952px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -441,5 +441,20 @@
          id="tspan3639"
          x="76.285767"
          y="1128.3922">Bornes d’arcade</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="242.4415"
+       y="995.6059"
+       id="text3057"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3059"
+         x="242.4415"
+         y="995.6059">Salle serveur</tspan><tspan
+         sodipodi:role="line"
+         x="242.4415"
+         y="1035.6058"
+         id="tspan3061">Bocal</tspan></text>
   </g>
 </svg>
