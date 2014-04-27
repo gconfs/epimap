@@ -261,8 +261,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="1989.8682"
-     inkscape:cy="719.1912"
+     inkscape:cx="1792.7253"
+     inkscape:cy="816.33406"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -347,23 +347,27 @@
          id="tspan3981"
          x="358.04678"
          y="320.9675">Patio</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="0.34645724"
-       y="278.45187"
-       id="text3983"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3985"
-         x="0.34645724"
+    <a
+       id="a3864"
+       xlink:href="https://portail.acu.epita.fr/">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3983"
          y="278.45187"
-         style="text-align:center;text-anchor:middle">Lab Assistant</tspan><tspan
-         sodipodi:role="line"
          x="0.34645724"
-         y="318.45187"
-         id="tspan3987"
-         style="text-align:center;text-anchor:middle">ACU/YAKA</tspan></text>
+         style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="text-align:center;text-anchor:middle"
+           y="278.45187"
+           x="0.34645724"
+           id="tspan3985"
+           sodipodi:role="line">Lab Assistant</tspan><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan3987"
+           y="318.45187"
+           x="0.34645724"
+           sodipodi:role="line">ACU/YAKA</tspan></text>
+    </a>
     <text
        xml:space="preserve"
        style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"

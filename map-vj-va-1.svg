@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="925.38202"
-     inkscape:cy="327.4658"
+     inkscape:cx="662.52484"
+     inkscape:cy="247.4658"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -36,7 +36,7 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1364"
+     inkscape:window-width="681"
      inkscape:window-height="754"
      inkscape:window-x="0"
      inkscape:window-y="12"
@@ -58,32 +58,40 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(534.84532,-20.790753)">
-    <text
-       xml:space="preserve"
-       style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="1043.5924"
-       y="765.93323"
-       id="text3947"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3949"
+    <a
+       id="a4048"
+       xlink:href="http://www.evolutek.org/">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3947"
+         y="765.93323"
          x="1043.5924"
-         y="765.93323">Evolutek</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:32.0000003px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="930.28687"
-       y="345.21933"
-       id="text3951"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3953"
+         style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="765.93323"
+           x="1043.5924"
+           id="tspan3949"
+           sodipodi:role="line">Evolutek</tspan></text>
+    </a>
+    <a
+       id="a4043"
+       xlink:href="https://gistre.epita.fr/">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3951"
+         y="345.21933"
          x="930.28687"
-         y="345.21933">Laboratoire</tspan><tspan
-         sodipodi:role="line"
-         x="930.28687"
-         y="375.21933"
-         id="tspan3955">GISTRE</tspan></text>
+         style="font-size:32.0000003px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="345.21933"
+           x="930.28687"
+           id="tspan3953"
+           sodipodi:role="line">Laboratoire</tspan><tspan
+           id="tspan3955"
+           y="375.21933"
+           x="930.28687"
+           sodipodi:role="line">GISTRE</tspan></text>
+    </a>
     <text
        xml:space="preserve"
        style="font-size:32px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -99,21 +107,25 @@
          x="393.02676"
          y="379.50504"
          id="tspan3961">SCIA</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:32.0000003px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="-235.20866"
-       y="344.28098"
-       id="text3963"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3965"
+    <a
+       id="a4441"
+       xlink:href="http://www.tcom.epita.fr/">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3963"
+         y="344.28098"
          x="-235.20866"
-         y="344.28098">Laboratoire</tspan><tspan
-         sodipodi:role="line"
-         x="-235.20866"
-         y="374.28098"
-         id="tspan3967">TCOM</tspan></text>
+         style="font-size:32.0000003px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="344.28098"
+           x="-235.20866"
+           id="tspan3965"
+           sodipodi:role="line">Laboratoire</tspan><tspan
+           id="tspan3967"
+           y="374.28098"
+           x="-235.20866"
+           sodipodi:role="line">TCOM</tspan></text>
+    </a>
     <text
        xml:space="preserve"
        style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"

@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="100%"
@@ -42,9 +43,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497474"
-     inkscape:cx="1688.1996"
-     inkscape:cy="678.70985"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="706.49056"
+     inkscape:cy="1074.644"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -141,43 +142,55 @@
          id="tspan4070"
          x="993.6886"
          y="1038.2372">BDE Epitech</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="1427.2864"
-       y="569.62244"
-       id="text4072"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4074"
+    <a
+       id="a3057"
+       xlink:href="http://www.bde-epita.fr/">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4072"
+         y="569.62244"
          x="1427.2864"
-         y="569.62244">BDE</tspan><tspan
-         sodipodi:role="line"
-         x="1427.2864"
-         y="599.62244"
-         id="tspan3029">Epita</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="1573.1206"
-       y="628.74036"
-       id="text4076"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4078"
+         style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="569.62244"
+           x="1427.2864"
+           id="tspan4074"
+           sodipodi:role="line">BDE</tspan><tspan
+           id="tspan3029"
+           y="599.62244"
+           x="1427.2864"
+           sodipodi:role="line">Epita</tspan></text>
+    </a>
+    <a
+       id="a3062"
+       xlink:href="http://lateb.org/">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4076"
+         y="628.74036"
          x="1573.1206"
-         y="628.74036">LATEB</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="1440.671"
-       y="767.68903"
-       id="text4080"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4082"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="628.74036"
+           x="1573.1206"
+           id="tspan4078"
+           sodipodi:role="line">LATEB</tspan></text>
+    </a>
+    <a
+       id="a3066"
+       xlink:href="http://www.epitanime.com/">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4080"
+         y="767.68903"
          x="1440.671"
-         y="767.68903">Epitanime</tspan></text>
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="767.68903"
+           x="1440.671"
+           id="tspan4082"
+           sodipodi:role="line">Epitanime</tspan></text>
+    </a>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -231,28 +244,36 @@
          id="tspan4105"
          x="1985.7749"
          y="857.11115">e-artsup</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="2025.3555"
-       y="83.200035"
-       id="text4107"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4109"
+    <a
+       id="a3080"
+       xlink:href="http://www.unisson.org/">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4107"
+         y="83.200035"
          x="2025.3555"
-         y="83.200035">Unisson</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="973.47589"
-       y="932.40948"
-       id="text3896"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3898"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="83.200035"
+           x="2025.3555"
+           id="tspan4109"
+           sodipodi:role="line">Unisson</tspan></text>
+    </a>
+    <a
+       id="a3070"
+       xlink:href="http://www.cast-airsoft.fr/">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3896"
+         y="932.40948"
          x="973.47589"
-         y="932.40948">CAST</tspan></text>
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="932.40948"
+           x="973.47589"
+           id="tspan3898"
+           sodipodi:role="line">CAST</tspan></text>
+    </a>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -399,16 +420,20 @@
          x="714.72168"
          y="1194.1409"
          id="tspan3056">entretien</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="994.30878"
-       y="869.17627"
-       id="text3058"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3060"
+    <a
+       id="a3084"
+       xlink:href="https://fr-fr.facebook.com/pages/One4One-obsession/134391609968886">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3058"
+         y="869.17627"
          x="994.30878"
-         y="869.17627">One4One</tspan></text>
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="869.17627"
+           x="994.30878"
+           id="tspan3060"
+           sodipodi:role="line">One4One</tspan></text>
+    </a>
   </g>
 </svg>
