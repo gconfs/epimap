@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="1456.9026"
-     inkscape:cy="376.84301"
+     inkscape:zoom="0.24748738"
+     inkscape:cx="1859.2024"
+     inkscape:cy="524.38299"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -283,174 +283,190 @@
        d="m 645.99255,771.28724 0,35.35534 M 239.82143,480.3979 l 35,0 m -48.03572,-116.78572 0,31.07143 m -100,-43.03571 0,30 m -95.714281,-57.14286 0,37.14286 m -434.642859,743.2143 76.07143,0 m -269.28572,0 58.57143,0 m 99.64286,241.0714 34.64286,0 m -88.92857,-46.7857 27.5,0 m -67.14286,98.9286 0,32.5 m -52.14286,17.8571 33.92857,0 m -38.92857,-59.2857 0,35 m 572.217729,-282.3872 35.860415,0 m -213.647264,-56.316 44.69925,0 m 141.5841586,260.1318 33.9285714,0 m -219.28571,-0.7143 38.57142,0 m 334.28572,-407.50002 35.17857,0 m -36.07143,-201.07143 34.82143,0 m 98.75,0 36.07143,0 m 163.56322,401.80815 35.98669,0 m 375.27152,0.3347 36.07143,0 m 115.35711,-33.2143 42.8572,0 m 136.0714,0.3572 66.7857,0 m 20.3572,238.9285 31.4285,0 m -89.2857,0.3572 37.8572,0 m -243.5715,-0.3572 41.7857,0 m -206.42853,0.7143 37.85715,0 m -192.14286,0.3572 39.28571,0 m -280.35714,0 42.5,0 m -206.42857,-0.7143 37.85714,0 m 1050.7143,-160 0,33.5714 m 11.0714,186.7857 0,31.7857 m 21.4286,10.7143 36.0714,0 m 7.1429,-48.2143 0,36.4286 m -50,-49.6428 38.9285,0 m -64.6428,-107.1429 0,36.4286 m -795.35716,-795.00003 0,33.21428 m 13.21429,-73.21428 35.35714,0 m 17.14286,-122.85715 0,32.85715 m 87.5,-43.21429 0,30.71429 m 130,110.35714 0,31.42857"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
-    <g
-       id="g4026"
-       transform="matrix(0.20113469,0,0,0.20113469,40.162842,395.86863)">
-      <rect
-         ry="50"
-         rx="50"
-         y="6.3000002"
-         x="6.3000002"
-         height="387.5"
-         width="387.5"
-         id="rectBordo"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:12.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <rect
-         y="125"
-         x="40"
-         height="235"
-         width="320"
-         id="rectAscensore"
-         style="fill:none;stroke:#000000;stroke-width:12.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <a
+       xlink:href="map-kb-voltaire-f0.svg"
+       id="a3756">
       <g
-         id="gUomini">
+         transform="matrix(0.20113469,0,0,0.20113469,40.162842,395.86863)"
+         id="g4026">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:12.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rectBordo"
+           width="387.5"
+           height="387.5"
+           x="6.3000002"
+           y="6.3000002"
+           rx="50"
+           ry="50" />
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:12.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rectAscensore"
+           width="320"
+           height="235"
+           x="40"
+           y="125" />
+        <g
+           id="gUomini">
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             d="m 200,156 c -8.3,0 -15,6.7 -15,15 0,8.3 6.7,15 15,15 8.3,0 15,-6.7 15,-15 0,-8.3 -6.7,-15 -15,-15 z m -20.7,33 c -5.7,0 -10.3,4.5 -10.3,10 l 0,60 c 0,5.5 4.3,10 10,10 l 0,77 c 0,4.4 3.6,8 8,8 4.4,0 8,-3.6 8,-8 l 0,-77 10,0 c 0,0 0,77 0,77 0,4.4 3.6,8 8,8 4.4,0 8,-3.6 8,-8 l 0,-77 c 5.7,0 10,-4.5 10,-10 l 0,-60 c 0,-5.5 -4.6,-10 -10.3,-10 l -41.4,0 z"
+             id="pathUomo"
+             sodipodi:nodetypes="csssscccccsccccscccccc" />
+          <use
+             height="400"
+             width="400"
+             id="useUomo2"
+             xlink:href="#pathUomo"
+             y="0"
+             x="-90" />
+          <use
+             height="400"
+             width="400"
+             id="useUomo3"
+             xlink:href="#pathUomo"
+             y="0"
+             x="90" />
+        </g>
         <path
-           sodipodi:nodetypes="csssscccccsccccscccccc"
-           id="pathUomo"
-           d="m 200,156 c -8.3,0 -15,6.7 -15,15 0,8.3 6.7,15 15,15 8.3,0 15,-6.7 15,-15 0,-8.3 -6.7,-15 -15,-15 z m -20.7,33 c -5.7,0 -10.3,4.5 -10.3,10 l 0,60 c 0,5.5 4.3,10 10,10 l 0,77 c 0,4.4 3.6,8 8,8 4.4,0 8,-3.6 8,-8 l 0,-77 10,0 c 0,0 0,77 0,77 0,4.4 3.6,8 8,8 4.4,0 8,-3.6 8,-8 l 0,-77 c 5.7,0 10,-4.5 10,-10 l 0,-60 c 0,-5.5 -4.6,-10 -10.3,-10 l -41.4,0 z"
+           inkscape:connector-curvature="0"
            style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-           inkscape:connector-curvature="0" />
+           d="m 96,63 29,-38 29,38 -19,0 0,42 -20,0 0,-42 -19,0 z"
+           id="pathFrecciaSu"
+           sodipodi:nodetypes="cccccccc" />
         <use
-           x="-90"
-           y="0"
-           xlink:href="#pathUomo"
-           id="useUomo2"
-           width="400"
-           height="400" />
-        <use
-           x="90"
-           y="0"
-           xlink:href="#pathUomo"
-           id="useUomo3"
+           x="150"
+           y="-134"
+           xlink:href="#pathFrecciaSu"
+           id="useFrecciaGiu"
+           transform="scale(1,-1)"
            width="400"
            height="400" />
       </g>
-      <path
-         sodipodi:nodetypes="cccccccc"
-         id="pathFrecciaSu"
-         d="m 96,63 29,-38 29,38 -19,0 0,42 -20,0 0,-42 -19,0 z"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-         inkscape:connector-curvature="0" />
-      <use
-         height="400"
-         width="400"
-         transform="scale(1,-1)"
-         id="useFrecciaGiu"
-         xlink:href="#pathFrecciaSu"
-         y="-134"
-         x="150" />
-    </g>
-    <g
-       id="g4026-2"
-       transform="matrix(0.19482124,0,0,0.19482124,803.2407,396.185)">
-      <rect
-         ry="50"
-         rx="50"
-         y="6.3000002"
-         x="6.3000002"
-         height="387.5"
-         width="387.5"
-         id="rectBordo-0"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:12.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <rect
-         y="125"
-         x="40"
-         height="235"
-         width="320"
-         id="rectAscensore-5"
-         style="fill:none;stroke:#000000;stroke-width:12.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </a>
+    <a
+       xlink:href="map-kb-voltaire-f0.svg"
+       id="a3767">
       <g
-         id="gUomini-0">
+         transform="matrix(0.19482124,0,0,0.19482124,803.2407,396.185)"
+         id="g4026-2">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:12.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rectBordo-0"
+           width="387.5"
+           height="387.5"
+           x="6.3000002"
+           y="6.3000002"
+           rx="50"
+           ry="50" />
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:12.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rectAscensore-5"
+           width="320"
+           height="235"
+           x="40"
+           y="125" />
+        <g
+           id="gUomini-0">
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             d="m 200,156 c -8.3,0 -15,6.7 -15,15 0,8.3 6.7,15 15,15 8.3,0 15,-6.7 15,-15 0,-8.3 -6.7,-15 -15,-15 z m -20.7,33 c -5.7,0 -10.3,4.5 -10.3,10 l 0,60 c 0,5.5 4.3,10 10,10 l 0,77 c 0,4.4 3.6,8 8,8 4.4,0 8,-3.6 8,-8 l 0,-77 10,0 c 0,0 0,77 0,77 0,4.4 3.6,8 8,8 4.4,0 8,-3.6 8,-8 l 0,-77 c 5.7,0 10,-4.5 10,-10 l 0,-60 c 0,-5.5 -4.6,-10 -10.3,-10 l -41.4,0 z"
+             id="pathUomo-2"
+             sodipodi:nodetypes="csssscccccsccccscccccc" />
+          <use
+             height="400"
+             width="400"
+             id="useUomo2-6"
+             xlink:href="#pathUomo-2"
+             y="0"
+             x="-90" />
+          <use
+             height="400"
+             width="400"
+             id="useUomo3-1"
+             xlink:href="#pathUomo-2"
+             y="0"
+             x="90" />
+        </g>
         <path
-           sodipodi:nodetypes="csssscccccsccccscccccc"
-           id="pathUomo-2"
-           d="m 200,156 c -8.3,0 -15,6.7 -15,15 0,8.3 6.7,15 15,15 8.3,0 15,-6.7 15,-15 0,-8.3 -6.7,-15 -15,-15 z m -20.7,33 c -5.7,0 -10.3,4.5 -10.3,10 l 0,60 c 0,5.5 4.3,10 10,10 l 0,77 c 0,4.4 3.6,8 8,8 4.4,0 8,-3.6 8,-8 l 0,-77 10,0 c 0,0 0,77 0,77 0,4.4 3.6,8 8,8 4.4,0 8,-3.6 8,-8 l 0,-77 c 5.7,0 10,-4.5 10,-10 l 0,-60 c 0,-5.5 -4.6,-10 -10.3,-10 l -41.4,0 z"
+           inkscape:connector-curvature="0"
            style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-           inkscape:connector-curvature="0" />
+           d="m 96,63 29,-38 29,38 -19,0 0,42 -20,0 0,-42 -19,0 z"
+           id="pathFrecciaSu-0"
+           sodipodi:nodetypes="cccccccc" />
         <use
-           x="-90"
-           y="0"
-           xlink:href="#pathUomo-2"
-           id="useUomo2-6"
-           width="400"
-           height="400" />
-        <use
-           x="90"
-           y="0"
-           xlink:href="#pathUomo-2"
-           id="useUomo3-1"
+           x="150"
+           y="-134"
+           xlink:href="#pathFrecciaSu-0"
+           id="useFrecciaGiu-1"
+           transform="scale(1,-1)"
            width="400"
            height="400" />
       </g>
-      <path
-         sodipodi:nodetypes="cccccccc"
-         id="pathFrecciaSu-0"
-         d="m 96,63 29,-38 29,38 -19,0 0,42 -20,0 0,-42 -19,0 z"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-         inkscape:connector-curvature="0" />
-      <use
-         height="400"
-         width="400"
-         transform="scale(1,-1)"
-         id="useFrecciaGiu-1"
-         xlink:href="#pathFrecciaSu-0"
-         y="-134"
-         x="150" />
-    </g>
-    <g
-       id="g4168"
-       transform="translate(66.670067,13.491331)">
-      <text
-         transform="matrix(0,-1,1,0,0,0)"
-         sodipodi:linespacing="125%"
-         id="text4160"
-         y="-446.87173"
-         x="-839.85382"
-         style="font-size:72px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           y="-446.87173"
+    </a>
+    <a
+       xlink:href="map-kb-voltaire-f0.svg"
+       id="a3742">
+      <g
+         transform="translate(66.670067,13.491331)"
+         id="g4168">
+        <text
+           xml:space="preserve"
+           style="font-size:72px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
            x="-839.85382"
-           id="tspan4162"
-           sodipodi:role="line">→</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text4164"
-         y="916.81403"
-         x="-564.55469"
-         style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           y="916.81403"
-           x="-564.55469"
-           id="tspan4166"
-           sodipodi:role="line">Rue Voltaire</tspan></text>
-    </g>
-    <g
-       transform="translate(1799.4617,13.491331)"
-       id="g4168-5">
-      <text
-         transform="matrix(0,-1,1,0,0,0)"
-         sodipodi:linespacing="125%"
-         id="text4160-9"
-         y="-446.87173"
-         x="-839.85382"
-         style="font-size:72px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
            y="-446.87173"
-           x="-839.85382"
-           id="tspan4162-8"
-           sodipodi:role="line">→</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text4164-7"
-         y="916.81403"
-         x="-564.55469"
-         style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           y="916.81403"
+           id="text4160"
+           sodipodi:linespacing="125%"
+           transform="matrix(0,-1,1,0,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan4162"
+             x="-839.85382"
+             y="-446.87173">→</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
            x="-564.55469"
-           id="tspan4166-8"
-           sodipodi:role="line">Rue Voltaire</tspan></text>
-    </g>
+           y="916.81403"
+           id="text4164"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4166"
+             x="-564.55469"
+             y="916.81403">Rue Voltaire</tspan></text>
+      </g>
+    </a>
+    <a
+       xlink:href="map-kb-voltaire-f0.svg"
+       id="a3749">
+      <g
+         id="g4168-5"
+         transform="translate(1799.4617,13.491331)">
+        <text
+           xml:space="preserve"
+           style="font-size:72px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="-839.85382"
+           y="-446.87173"
+           id="text4160-9"
+           sodipodi:linespacing="125%"
+           transform="matrix(0,-1,1,0,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan4162-8"
+             x="-839.85382"
+             y="-446.87173">→</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="-564.55469"
+           y="916.81403"
+           id="text4164-7"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4166-8"
+             x="-564.55469"
+             y="916.81403">Rue Voltaire</tspan></text>
+      </g>
+    </a>
     <path
        style="fill:none;stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 547.50268,466.12345 0,218.69803"
