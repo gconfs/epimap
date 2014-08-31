@@ -15,7 +15,7 @@
    viewBox="0 0 2318.811 1386.2397"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="map-vj-va0.svg">
   <defs
      id="defs4">
@@ -524,9 +524,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="1221.6985"
-     inkscape:cy="503.49558"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="1728.8314"
+     inkscape:cy="499.17992"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -651,14 +651,14 @@
     <text
        xml:space="preserve"
        style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="11.49504"
+       x="-32.504959"
        y="554.47321"
        id="text4378"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4380"
-         x="11.49504"
-         y="554.47321">Réfectoire</tspan></text>
+         x="-32.504959"
+         y="554.47321">Réfectoire / VA 02</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -714,20 +714,20 @@
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="1674.4877"
-       y="1028.6154"
+       y="1054.6154"
        id="text4398"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4400"
          x="1674.4877"
-         y="1028.6154">Bureau des</tspan><tspan
+         y="1054.6154">Bureau des</tspan><tspan
          sodipodi:role="line"
          x="1674.4877"
-         y="1051.1154"
+         y="1077.1154"
          id="tspan4402">professeurs</tspan><tspan
          sodipodi:role="line"
          x="1674.4877"
-         y="1073.6154"
+         y="1099.6154"
          id="tspan4404">d’Anglais</tspan></text>
     <text
        xml:space="preserve"
@@ -846,35 +846,35 @@
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="1204.1741"
+       x="1212.1741"
        y="927.36523"
        id="text4456"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4458"
-         x="1204.1741"
+         x="1212.1741"
          y="927.36523"
-         style="font-size:18px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold">Marie</tspan><tspan
+         style="font-size:18px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold">Anne-Sophie</tspan><tspan
          sodipodi:role="line"
-         x="1204.1741"
+         x="1212.1741"
          y="949.86523"
          style="font-size:18px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
-         id="tspan3607">Sempéré</tspan><tspan
+         id="tspan3607">Poilleaux</tspan><tspan
          sodipodi:role="line"
-         x="1204.1741"
+         x="1212.1741"
          y="972.36523"
          id="tspan4460"
          style="font-size:18px;text-align:center;text-anchor:middle">Assistante</tspan><tspan
          sodipodi:role="line"
-         x="1204.1741"
+         x="1212.1741"
          y="994.86523"
          id="tspan4462"
          style="font-size:18px;text-align:center;text-anchor:middle">direction</tspan><tspan
          sodipodi:role="line"
-         x="1204.1741"
+         x="1212.1741"
          y="1017.3652"
          style="font-size:18px;text-align:center;text-anchor:middle"
-         id="tspan4466">cycle prépa</tspan></text>
+         id="tspan4466">cycle prépa.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -1861,5 +1861,22 @@
            id="path6419-0" />
       </g>
     </a>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1674.8143"
+       y="966.55286"
+       id="text3297"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3299"
+         x="1674.8143"
+         y="966.55286"
+         style="font-size:18px;text-align:center;text-anchor:middle">Secrétariat</tspan><tspan
+         sodipodi:role="line"
+         x="1674.8143"
+         y="989.05286"
+         id="tspan3301"
+         style="font-size:18px;text-align:center;text-anchor:middle">cycle ing.</tspan></text>
   </g>
 </svg>
