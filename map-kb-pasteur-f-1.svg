@@ -15,7 +15,7 @@
    viewBox="0 0 2625.2542 1771.2416"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="map-kb-pasteur-f-1.svg">
   <defs
      id="defs4">
@@ -43,9 +43,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748737"
-     inkscape:cx="2188.5136"
-     inkscape:cy="723.78631"
+     inkscape:zoom="0.98994948"
+     inkscape:cx="1802.2419"
+     inkscape:cy="709.31765"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -53,8 +53,8 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1364"
-     inkscape:window-height="754"
+     inkscape:window-width="1918"
+     inkscape:window-height="1066"
      inkscape:window-x="0"
      inkscape:window-y="12"
      inkscape:window-maximized="0" />
@@ -464,5 +464,39 @@
            id="tspan3060"
            sodipodi:role="line">One4One</tspan></text>
     </a>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1228.9454"
+       y="717.20343"
+       id="text4068-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4070-4"
+         x="1228.9454"
+         y="717.20343"
+         style="text-align:center;text-anchor:middle">BDE</tspan><tspan
+         sodipodi:role="line"
+         x="1228.9454"
+         y="747.20343"
+         id="tspan3083"
+         style="text-align:center;text-anchor:middle">e-artsup</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1395.1882"
+       y="659.7196"
+       id="text3915-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3917-2"
+         x="1395.1882"
+         y="659.7196"
+         style="text-align:center;text-anchor:middle">IIT</tspan><tspan
+         sodipodi:role="line"
+         x="1395.1882"
+         y="689.7196"
+         id="tspan3106"
+         style="text-align:center;text-anchor:middle">roller</tspan></text>
   </g>
 </svg>

@@ -15,7 +15,7 @@
    viewBox="0 0 2963.7268 1729.6603"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="map-kb-voltaire-f1.svg">
   <defs
      id="defs4">
@@ -294,9 +294,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="1345.9719"
-     inkscape:cy="782.36411"
+     inkscape:zoom="0.7"
+     inkscape:cx="774.79887"
+     inkscape:cy="1125.0919"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -304,8 +304,8 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="681"
-     inkscape:window-height="754"
+     inkscape:window-width="1918"
+     inkscape:window-height="1066"
      inkscape:window-x="0"
      inkscape:window-y="12"
      inkscape:window-maximized="0" />
@@ -761,19 +761,23 @@
     <text
        xml:space="preserve"
        style="font-size:28px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="-491.95096"
-       y="227.37711"
+       x="-494.48038"
+       y="276.51996"
        id="text3237"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3239"
-         x="-491.95096"
-         y="227.37711"
+         x="-494.48038"
+         y="276.51996"
          style="font-size:28px;font-weight:bold;-inkscape-font-specification:Sans Bold">Fabrice Bardèche</tspan><tspan
          sodipodi:role="line"
-         x="-491.95096"
-         y="262.37711"
-         id="tspan3241">Vice-président IONIS</tspan></text>
+         x="-494.48038"
+         y="311.51996"
+         id="tspan3241">Directeur général</tspan><tspan
+         sodipodi:role="line"
+         x="-494.48038"
+         y="346.51996"
+         id="tspan3219">IONIS</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -996,8 +1000,8 @@
     </a>
     <a
        xlink:href="map-kb-voltaire-f0.svg"
-       id="a4282"
-       transform="matrix(1.0367926,0,0,1.0367926,5.8152935,3.2378712)">
+       transform="matrix(1.0367926,0,0,1.0367926,5.8152935,3.2378712)"
+       id="a4282">
       <g
          transform="matrix(0.10782306,0,0,0.10782306,-160.57207,-144.62855)"
          id="g1316-6-3">
@@ -1065,8 +1069,8 @@
     </a>
     <a
        xlink:href="map-kb-voltaire-f0.svg"
-       id="a4287"
-       transform="matrix(1.0462513,0,0,1.0462513,-40.853916,5.8102648)">
+       transform="matrix(1.0462513,0,0,1.0462513,-40.853916,5.8102648)"
+       id="a4287">
       <g
          transform="matrix(0.10782306,0,0,0.10782306,880.78769,-135.61239)"
          id="g1316-6-3-7">
@@ -1083,5 +1087,65 @@
            id="path1310-9-8-7" />
       </g>
     </a>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-494.91202"
+       y="472.29193"
+       id="text3989-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3991-3"
+         x="-494.91202"
+         y="472.29193"
+         style="text-align:center;text-anchor:middle">Master</tspan><tspan
+         sodipodi:role="line"
+         x="-494.91202"
+         y="512.29193"
+         id="tspan3193"
+         style="text-align:center;text-anchor:middle">Internationaux</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-494.45987"
+       y="106.00452"
+       id="text3237-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3239-8"
+         x="-494.45987"
+         y="106.00452"
+         style="font-size:28px;font-weight:bold;-inkscape-font-specification:Sans Bold">Marc Sellam</tspan><tspan
+         sodipodi:role="line"
+         x="-494.45987"
+         y="141.00452"
+         id="tspan3241-8">Président IONIS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-494.41592"
+       y="-177.55646"
+       id="text3237-7-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3239-8-6"
+         x="-494.41592"
+         y="-177.55646"
+         style="font-size:24px;font-weight:bold;-inkscape-font-specification:Sans Bold">Sandy Antolini</tspan><tspan
+         sodipodi:role="line"
+         x="-494.41592"
+         y="-147.55646"
+         style="font-size:24px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+         id="tspan3245">Yousra Frihi</tspan><tspan
+         sodipodi:role="line"
+         x="-494.41592"
+         y="-117.55646"
+         style="font-size:24px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+         id="tspan3247">Cyril Pierre-de-Geyer</tspan><tspan
+         sodipodi:role="line"
+         x="-494.41592"
+         y="-87.556458"
+         id="tspan3241-8-4"
+         style="font-size:24px">Executive MBA</tspan></text>
   </g>
 </svg>
