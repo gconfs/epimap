@@ -43,9 +43,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994948"
-     inkscape:cx="1802.2419"
-     inkscape:cy="709.31765"
+     inkscape:zoom="0.69999999"
+     inkscape:cx="2035.981"
+     inkscape:cy="810.98156"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -498,5 +498,53 @@
          y="689.7196"
          id="tspan3106"
          style="text-align:center;text-anchor:middle">roller</tspan></text>
+    <a
+       transform="translate(111.70893,266.18922)"
+       id="a3062-2"
+       xlink:href="http://strataegyc.forumotion.com/">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4076-8"
+         y="638.74036"
+         x="1565.9778"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="638.74036"
+           x="1565.9778"
+           id="tspan4078-7"
+           sodipodi:role="line">Strataegyc</tspan></text>
+    </a>
+    <a
+       transform="translate(258.85179,263.33207)"
+       id="a3062-24"
+       xlink:href="http://www.antre.fr/">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4076-4"
+         y="628.74036"
+         x="1573.1206"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="628.74036"
+           x="1573.1206"
+           id="tspan4078-5"
+           sodipodi:role="line">Antre</tspan></text>
+    </a>
+    <a
+       transform="translate(-127.20235,-121.98072)"
+       id="a3062-24-7"
+       xlink:href="http://www.olibrius.fr/">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4076-4-4"
+         y="630.16895"
+         x="1563.1206"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="630.16895"
+           x="1563.1206"
+           id="tspan4078-5-3"
+           sodipodi:role="line">Olibrius</tspan></text>
+    </a>
   </g>
 </svg>
