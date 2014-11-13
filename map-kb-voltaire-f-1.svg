@@ -15,7 +15,7 @@
    viewBox="0 0 2224.5715 1315.6617"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="map-kb-voltaire-f-1.svg">
   <defs
      id="defs4" />
@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748738"
-     inkscape:cx="1859.2024"
-     inkscape:cy="524.38299"
+     inkscape:zoom="0.70000002"
+     inkscape:cx="1952.5307"
+     inkscape:cy="256.15011"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -73,26 +73,10 @@
          x="1304.3153"
          y="1496.4639"
          id="tspan3635">Radio</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="1126.6351"
-       y="1457.4639"
-       id="text3917"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3919"
-         x="1126.6351"
-         y="1457.4639"
-         style="font-size:32px;text-align:center;text-anchor:middle">Stockage</tspan><tspan
-         sodipodi:role="line"
-         x="1126.6351"
-         y="1497.4639"
-         id="tspan4008"
-         style="font-size:32px;text-align:center;text-anchor:middle">Bocal</tspan></text>
     <a
        id="a3335"
-       xlink:href="http://www.prologin.org/">
+       xlink:href="http://www.prologin.org/"
+       transform="translate(176,0)">
       <text
          sodipodi:linespacing="125%"
          id="text3921"
