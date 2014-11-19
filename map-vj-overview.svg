@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="mpv-vj-overview.svg">
+   sodipodi:docname="map-vj-overview.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="60.974262"
+     inkscape:cx="64.974262"
      inkscape:cy="397.59138"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -36,7 +36,7 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1364"
+     inkscape:window-width="681"
      inkscape:window-height="754"
      inkscape:window-x="0"
      inkscape:window-y="12"
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -201,15 +201,15 @@
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="174.5513"
-       y="259.96375"
+       x="170.5513"
+       y="287.96375"
        id="text3864"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3866"
-         x="174.5513"
-         y="259.96375"
-         style="font-size:42px">VJ</tspan></text>
+         x="170.5513"
+         y="287.96375"
+         style="font-size:69px;font-weight:bold;-inkscape-font-specification:Sans Bold">VJ</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 632,844.73718 632,239.56141 274.35743,-56.20447"
