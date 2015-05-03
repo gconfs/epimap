@@ -15,7 +15,7 @@
    viewBox="0 0 2224.5715 1315.6617"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="map-kb-voltaire-f-1.svg">
   <defs
      id="defs4" />
@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70000002"
-     inkscape:cx="1594.6736"
-     inkscape:cy="320.43582"
+     inkscape:cx="1038.245"
+     inkscape:cy="521.86439"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -58,31 +58,36 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(637.28567,-269.87327)">
-    <text
-       xml:space="preserve"
-       style="font-size:32px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="1304.3153"
-       y="1456.4639"
-       id="text3913"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3915"
+    <a
+       id="a4218"
+       xlink:href="http://air-radio.eu/"
+       transform="translate(0,6)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3913"
+         y="1456.4639"
          x="1304.3153"
-         y="1456.4639">Air</tspan><tspan
-         sodipodi:role="line"
-         x="1304.3153"
-         y="1496.4639"
-         id="tspan3635">Radio</tspan></text>
+         style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="1456.4639"
+           x="1304.3153"
+           id="tspan3915"
+           sodipodi:role="line">Air</tspan><tspan
+           id="tspan3635"
+           y="1496.4639"
+           x="1304.3153"
+           sodipodi:role="line">Radio</tspan></text>
+    </a>
     <a
        id="a3335"
        xlink:href="http://www.prologin.org/"
-       transform="translate(176,0)">
+       transform="translate(176,9.2246094)">
       <text
          sodipodi:linespacing="125%"
          id="text3921"
          y="1470.1377"
          x="890.15375"
-         style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="1470.1377"
            x="890.15375"
@@ -91,13 +96,14 @@
     </a>
     <a
        id="a3339"
-       xlink:href="http://eptv.fr/">
+       xlink:href="http://eptv.fr/"
+       transform="translate(0,9.9335938)">
       <text
          sodipodi:linespacing="125%"
          id="text3925"
          y="1472.2646"
          x="721.68097"
-         style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="1472.2646"
            x="721.68097"
@@ -106,24 +112,41 @@
     </a>
     <text
        xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="331.42856"
-       y="1472.4639"
+       style="font-style:normal;font-weight:normal;font-size:24px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="371.74942"
+       y="1447.1187"
        id="text3929"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3931"
-         x="331.42856"
-         y="1472.4639">Wcube</tspan></text>
+         x="371.74942"
+         y="1447.1187"
+         style="font-size:15px;text-align:center;text-anchor:middle">Stockage</tspan><tspan
+         sodipodi:role="line"
+         x="371.74942"
+         y="1465.8687"
+         id="tspan4231"
+         style="font-size:15px;text-align:center;text-anchor:middle">vie</tspan><tspan
+         sodipodi:role="line"
+         x="371.74942"
+         y="1484.6187"
+         id="tspan4227"
+         style="font-size:15px;text-align:center;text-anchor:middle">associative</tspan><tspan
+         sodipodi:role="line"
+         x="371.74942"
+         y="1503.3687"
+         id="tspan4229"
+         style="font-size:15px;text-align:center;text-anchor:middle">(CIA)</tspan></text>
     <a
        id="a3347"
-       xlink:href="http://www.epimac.org/">
+       xlink:href="http://www.epimac.org/"
+       transform="translate(0,9.2246094)">
       <text
          sodipodi:linespacing="125%"
          id="text3933"
          y="1470.1377"
          x="59.428574"
-         style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="1470.1377"
            x="59.428574"
@@ -211,30 +234,35 @@
     </a>
     <a
        id="a3343"
-       xlink:href="http://www.cycom.org/">
+       xlink:href="http://www.cycom.org/"
+       transform="translate(0,9.1542969)">
       <text
          sodipodi:linespacing="125%"
          id="text3973"
          y="1469.9268"
          x="476.22644"
-         style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="1469.9268"
            x="476.22644"
            id="tspan3975"
            sodipodi:role="line">Cycom</tspan></text>
     </a>
-    <text
-       xml:space="preserve"
-       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="831.42859"
-       y="929.50507"
-       id="text3977"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3979"
+    <a
+       id="a4223"
+       xlink:href="http://www.epitech.eu/associations/activ.htm">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3977"
+         y="929.50507"
          x="831.42859"
-         y="929.50507">Activ’</tspan></text>
+         style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="929.50507"
+           x="831.42859"
+           id="tspan3979"
+           sodipodi:role="line">Activ’</tspan></text>
+    </a>
     <a
        id="a3361"
        xlink:href="https://eip.epitech.eu/">
