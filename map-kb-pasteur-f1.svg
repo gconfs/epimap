@@ -105,8 +105,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.71715732"
-     inkscape:cx="1070.5879"
-     inkscape:cy="987.91491"
+     inkscape:cx="848.18203"
+     inkscape:cy="876.36337"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -505,20 +505,25 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:24px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="225.0544"
-       y="-241.6178"
+       x="230.63197"
+       y="-266.71689"
        id="text3546-6"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="225.0544"
-         y="-241.6178"
+         x="230.63197"
+         y="-266.71689"
          id="tspan3550-2"
-         style="font-size:32px">Accueil</tspan><tspan
+         style="font-size:25px">Accueil</tspan><tspan
          sodipodi:role="line"
-         x="225.0544"
-         y="-201.6178"
+         x="230.63197"
+         y="-235.46689"
          id="tspan3349"
-         style="font-size:32px">Supinternet</tspan></text>
+         style="font-size:25px">Web@cadémie &amp;</tspan><tspan
+         sodipodi:role="line"
+         x="230.63197"
+         y="-204.21689"
+         style="font-size:25px"
+         id="tspan4223">Coding Academy</tspan></text>
     <a
        xlink:href="map-kb-pasteur-f0.svg"
        id="a4226">

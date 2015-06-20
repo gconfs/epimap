@@ -22,6 +22,10 @@
      id="defs4">
     <inkscape:path-effect
        effect="spiro"
+       id="path-effect4573"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
        id="path-effect4521"
        is_visible="true" />
     <inkscape:path-effect
@@ -280,13 +284,13 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="801.98146"
-     inkscape:cy="789.74957"
+     inkscape:zoom="0.50000001"
+     inkscape:cx="691.80389"
+     inkscape:cy="943.35938"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1918"
+     inkscape:window-width="958"
      inkscape:window-height="1066"
      inkscape:window-x="1366"
      inkscape:window-y="12"
@@ -1200,21 +1204,26 @@
          y="-860.84448">IP03</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="225.0544"
-       y="-267.6178"
+       style="font-style:normal;font-weight:normal;font-size:24px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="228.58994"
+       y="-289.53812"
        id="text3546-6"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="225.0544"
-         y="-267.6178"
+         x="228.58994"
+         y="-289.53812"
          id="tspan3550-2"
-         style="font-size:32px">Accueil</tspan><tspan
+         style="font-size:25px">Accueil</tspan><tspan
          sodipodi:role="line"
-         x="225.0544"
-         y="-227.6178"
+         x="228.58994"
+         y="-258.28812"
          id="tspan3349"
-         style="font-size:32px">Supinternet</tspan></text>
+         style="font-size:25px">Web@cadémie &amp;</tspan><tspan
+         sodipodi:role="line"
+         x="228.58994"
+         y="-227.0381"
+         style="font-size:25px"
+         id="tspan4480">Coding Academy</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 49.51645,-548.9362 -89.640143,0"
@@ -1359,17 +1368,6 @@
          id="tspan4600"
          x="-677.98175"
          y="-586.1413">Salle rose</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-270.76971"
-       y="-612.76294"
-       id="text4606"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4608"
-         x="-270.76971"
-         y="-612.76294">Administration Supinternet</tspan></text>
     <g
        id="layer1-5-8"
        inkscape:label="Ebene 1"
@@ -1926,5 +1924,54 @@
            id="path6130-7" />
       </g>
     </a>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -337.13148,-454.17649 -115.99674,115.99673 -20.99138,-20.99138"
+       id="path4571"
+       inkscape:path-effect="#path-effect4573"
+       inkscape:original-d="m -337.13148,-454.17649 -115.99674,115.99673 -20.99138,-20.99138"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-433.79691"
+       y="-428.1998"
+       id="text4575"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4577"
+         x="-433.79691"
+         y="-428.1998"
+         style="font-size:20px;text-align:center;text-anchor:middle">Accueil</tspan><tspan
+         sodipodi:role="line"
+         x="-433.79691"
+         y="-403.1998"
+         id="tspan4579"
+         style="font-size:20px;text-align:center;text-anchor:middle">Paritalie</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-38.913177"
+       y="-339.57516"
+       id="text4581"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4583"
+         x="-38.913177"
+         y="-339.57516"
+         style="font-size:20px">Toilettes</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-38.913177"
+       y="-143.18713"
+       id="text4581-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4583-1"
+         x="-38.913177"
+         y="-143.18713"
+         style="font-size:20px">Toilettes</tspan></text>
   </g>
 </svg>

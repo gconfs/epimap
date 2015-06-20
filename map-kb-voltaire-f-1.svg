@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70000002"
-     inkscape:cx="1038.245"
-     inkscape:cy="521.86439"
+     inkscape:cx="1123.245"
+     inkscape:cy="220.43583"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -140,7 +140,7 @@
     <a
        id="a3347"
        xlink:href="http://www.epimac.org/"
-       transform="translate(0,9.2246094)">
+       transform="translate(6.2210026,-39.061103)">
       <text
          sodipodi:linespacing="125%"
          id="text3933"
@@ -250,13 +250,14 @@
     </a>
     <a
        id="a4223"
-       xlink:href="http://www.epitech.eu/associations/activ.htm">
+       xlink:href="http://www.epitech.eu/associations/activ.htm"
+       transform="translate(0,-0.03045654)">
       <text
          sodipodi:linespacing="125%"
          id="text3977"
          y="929.50507"
          x="831.42859"
-         style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="929.50507"
            x="831.42859"
@@ -269,25 +270,20 @@
       <text
          sodipodi:linespacing="125%"
          id="text3945-3"
-         y="875.41547"
-         x="533.88318"
-         style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         y="909.70117"
+         x="531.02606"
+         style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            style="font-size:32px;text-align:center;text-anchor:middle"
-           y="875.41547"
-           x="533.88318"
-           id="tspan3947-9"
-           sodipodi:role="line">Epitech</tspan><tspan
-           style="font-size:32px;text-align:center;text-anchor:middle"
-           id="tspan3949-4"
-           y="915.41547"
-           x="533.88318"
-           sodipodi:role="line">Innovative</tspan><tspan
-           style="font-size:32px;text-align:center;text-anchor:middle"
            id="tspan3951-7"
-           y="955.41547"
-           x="533.88318"
-           sodipodi:role="line">Projects</tspan></text>
+           y="909.70117"
+           x="531.02606"
+           sodipodi:role="line">Salle serveur</tspan><tspan
+           style="font-size:32px;text-align:center;text-anchor:middle"
+           y="949.70117"
+           x="531.02606"
+           sodipodi:role="line"
+           id="tspan4228">EIP</tspan></text>
     </a>
     <path
        id="path3877"
@@ -546,6 +542,22 @@
            x="903.71643"
            id="tspan3067"
            sodipodi:role="line">Epirev</tspan></text>
+    </a>
+    <a
+       id="a4234"
+       xlink:href="http://club-ephemere.fr/">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4230"
+         y="1514.3922"
+         x="5.5714512"
+         style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:32px"
+           y="1514.3922"
+           x="5.5714512"
+           id="tspan4232"
+           sodipodi:role="line">Club Ephemere</tspan></text>
     </a>
   </g>
 </svg>
