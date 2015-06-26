@@ -26,12 +26,12 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0000001"
-     inkscape:cx="316.882"
-     inkscape:cy="289.3976"
+     inkscape:cx="248.382"
+     inkscape:cy="241.3976"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1918"
+     inkscape:window-width="958"
      inkscape:window-height="1066"
      inkscape:window-x="1366"
      inkscape:window-y="12"
@@ -263,14 +263,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="321.65479"
-       y="595.36218"
+       x="322.27567"
+       y="587.86218"
        id="text3947"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="321.65479"
-         y="595.36218"
-         style="font-weight:bold;font-size:12px;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle"
+         x="322.27567"
+         y="587.86218"
+         style="font-weight:bold;font-size:17.5px;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle"
          id="tspan3957">Bâtiment X</tspan></text>
     <text
        xml:space="preserve"
@@ -429,7 +429,8 @@
     </a>
     <a
        xlink:href="map-kb-pasteur-f0.svg"
-       id="a4251">
+       id="a4251"
+       transform="translate(-3.8215637,7.9999996)">
       <text
          sodipodi:linespacing="125%"
          id="text4200"
@@ -440,7 +441,9 @@
            y="666.08521"
            x="301.91962"
            id="tspan4202"
-           sodipodi:role="line">• RDC</tspan></text>
+           sodipodi:role="line">• <tspan
+   style="font-size:17.5px"
+   id="tspan4243">RDC</tspan></tspan></text>
     </a>
     <text
        xml:space="preserve"
@@ -475,7 +478,8 @@
     </a>
     <a
        xlink:href="map-kb-pasteur-f2.svg"
-       id="a4259">
+       id="a4259"
+       transform="translate(-7.7086487,-0.24285896)">
       <text
          sodipodi:linespacing="125%"
          id="text4200-2"
@@ -486,11 +490,16 @@
            y="630.82306"
            x="278.70477"
            id="tspan4202-1"
-           sodipodi:role="line">• 2ème étage</tspan></text>
+           sodipodi:role="line">• <tspan
+   style="font-size:17.5px"
+   id="tspan4239">2<tspan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="tspan4223">ème</tspan> étage</tspan></tspan></text>
     </a>
     <a
        xlink:href="map-kb-pasteur-f5.svg"
-       id="a4263">
+       id="a4263"
+       transform="translate(-7.7086487,-4.702301)">
       <text
          sodipodi:linespacing="125%"
          id="text4200-6"
@@ -501,22 +510,31 @@
            y="613.60071"
            x="278.70477"
            id="tspan4202-4"
-           sodipodi:role="line">• 5ème étage</tspan></text>
+           sodipodi:role="line">• <tspan
+   style="font-size:17.5px"
+   id="tspan4237">5<tspan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="tspan4221">ème</tspan> étage</tspan></tspan></text>
     </a>
     <a
        xlink:href="map-kb-pasteur-f1.svg"
-       id="a4255">
+       id="a4255"
+       transform="translate(-11.222941,3.1659239)">
       <text
          sodipodi:linespacing="125%"
          id="text4200-1"
          y="648.04547"
-         x="285.77118"
+         x="288.91742"
          style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="648.04547"
-           x="285.77118"
+           x="288.91742"
            id="tspan4202-6"
-           sodipodi:role="line">• 1er étage</tspan></text>
+           sodipodi:role="line">• <tspan
+   style="font-size:17.5px"
+   id="tspan4241">1<tspan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="tspan4225">er</tspan> étage</tspan></tspan></text>
     </a>
   </g>
 </svg>
