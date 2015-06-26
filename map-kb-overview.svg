@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="322.19117"
-     inkscape:cy="311.21828"
+     inkscape:zoom="2.0000001"
+     inkscape:cx="316.882"
+     inkscape:cy="289.3976"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -262,15 +262,15 @@
          id="tspan3945">Cour Pasteur</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="320.65479"
-       y="610.36218"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="321.65479"
+       y="595.36218"
        id="text3947"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="320.65479"
-         y="610.36218"
-         style="font-size:12px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+         x="321.65479"
+         y="595.36218"
+         style="font-weight:bold;font-size:12px;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle"
          id="tspan3957">Bâtiment X</tspan></text>
     <text
        xml:space="preserve"
@@ -327,13 +327,14 @@
     </a>
     <a
        xlink:href="map-kb-voltaire-f1.svg"
+       transform="translate(-1.9073486e-5,0)"
        id="a4070">
       <text
          sodipodi:linespacing="125%"
          id="text3997-8"
          y="394.892"
          x="378.24588"
-         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            style="font-size:18px"
            y="394.892"
@@ -345,13 +346,14 @@
     </a>
     <a
        xlink:href="map-kb-voltaire-f0.svg"
+       transform="translate(-1.5258789e-5,0)"
        id="a4075">
       <text
          sodipodi:linespacing="125%"
          id="text3997-4"
          y="415.53036"
          x="399.23248"
-         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            style="font-size:18px"
            y="415.53036"
@@ -361,24 +363,25 @@
     </a>
     <a
        xlink:href="map-kb-voltaire-f-1.svg"
+       transform="translate(-4.1704254,0)"
        id="a4079">
       <text
          sodipodi:linespacing="125%"
          id="text3997-5"
          y="435.10086"
-         x="382.5069"
-         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="396.0069"
+         style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            style="font-size:18px"
            y="435.10086"
-           x="382.5069"
+           x="396.0069"
            id="tspan3999-3"
-           sodipodi:role="line">• sous-sol</tspan></text>
+           sodipodi:role="line">• under</tspan></text>
     </a>
     <a
        xlink:href="map-kb-pasteur-f0.svg"
-       transform="translate(-4.1690883,22.207209)"
-       id="a4138">
+       id="a4138"
+       transform="translate(-4.1690883,22.207209)">
       <text
          sodipodi:linespacing="125%"
          id="text4092-3"
@@ -394,8 +397,8 @@
     </a>
     <a
        xlink:href="map-kb-pasteur-f-1.svg"
-       transform="translate(-4.1690883,-2.4748737)"
-       id="a4142">
+       id="a4142"
+       transform="translate(-4.1690883,-2.4748737)">
       <text
          sodipodi:linespacing="125%"
          id="text4092-5"
@@ -425,63 +428,20 @@
            sodipodi:role="line">• LSE</tspan></text>
     </a>
     <a
-       id="a4204"
-       xlink:href="http://www.epita.fr/entreprises-service-entreprise.aspx">
+       xlink:href="map-kb-pasteur-f0.svg"
+       id="a4251">
       <text
          sodipodi:linespacing="125%"
-         id="text4175"
-         y="623.8396"
-         x="258.44751"
-         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         id="text4200"
+         y="666.08521"
+         x="301.91962"
+         style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           y="623.8396"
-           x="258.44751"
-           id="tspan4177"
-           sodipodi:role="line">• <tspan
-   id="tspan4179"
-   style="font-size:11px">relations entreprises</tspan></tspan></text>
+           y="666.08521"
+           x="301.91962"
+           id="tspan4202"
+           sodipodi:role="line">• RDC</tspan></text>
     </a>
-    <a
-       id="a4209"
-       xlink:href="http://lrde.epita.fr">
-      <text
-         sodipodi:linespacing="125%"
-         id="text4192"
-         y="640.33551"
-         x="299.19775"
-         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           y="640.33551"
-           x="299.19775"
-           id="tspan4194"
-           sodipodi:role="line">• LRDE</tspan></text>
-    </a>
-    <a
-       id="a4213"
-       xlink:href="http://3ie.epita.fr">
-      <text
-         sodipodi:linespacing="125%"
-         id="text4196"
-         y="655.48621"
-         x="305.73682"
-         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           y="655.48621"
-           x="305.73682"
-           id="tspan4198"
-           sodipodi:role="line">• 3IE</tspan></text>
-    </a>
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="274.96045"
-       y="669.58521"
-       id="text4200"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4202"
-         x="274.96045"
-         y="669.58521">• labos Epitech</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -496,8 +456,8 @@
          style="font-size:40px;font-weight:bold;-inkscape-font-specification:Sans Bold">KB</tspan></text>
     <a
        xlink:href="map-kb-pasteur-f1.svg"
-       id="a4138-9"
-       transform="translate(-25.15561,-0.56224654)">
+       transform="translate(-25.15561,-0.56224654)"
+       id="a4138-9">
       <text
          sodipodi:linespacing="125%"
          id="text4092-3-6"
@@ -512,6 +472,51 @@
            sodipodi:role="line">• 1<tspan
    style="font-size:64.99999762%;baseline-shift:super"
    id="tspan4234">er</tspan> étage</tspan></text>
+    </a>
+    <a
+       xlink:href="map-kb-pasteur-f2.svg"
+       id="a4259">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4200-2"
+         y="630.82306"
+         x="278.70477"
+         style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="630.82306"
+           x="278.70477"
+           id="tspan4202-1"
+           sodipodi:role="line">• 2ème étage</tspan></text>
+    </a>
+    <a
+       xlink:href="map-kb-pasteur-f5.svg"
+       id="a4263">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4200-6"
+         y="613.60071"
+         x="278.70477"
+         style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="613.60071"
+           x="278.70477"
+           id="tspan4202-4"
+           sodipodi:role="line">• 5ème étage</tspan></text>
+    </a>
+    <a
+       xlink:href="map-kb-pasteur-f1.svg"
+       id="a4255">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4200-1"
+         y="648.04547"
+         x="285.77118"
+         style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="648.04547"
+           x="285.77118"
+           id="tspan4202-6"
+           sodipodi:role="line">• 1er étage</tspan></text>
     </a>
   </g>
 </svg>
